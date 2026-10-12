@@ -1,0 +1,7 @@
+@"
+AIML Dataset.csv
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+"@ | Set-Content .gitignore
